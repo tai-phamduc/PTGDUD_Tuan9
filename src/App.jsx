@@ -4,6 +4,7 @@ import ChelifyFooter from './components/ChelifyFooter'
 import RecipeOfTheDay from './components/RecipeOfTheDay'
 import SummerRecipes from './components/SummerRecipes'
 import RecipesWithVideos from './components/RecipesWithVideos'
+import EditorsPick from './components/EditorsPick'
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
       <RecipeOfTheDay />
       <SummerRecipes />
       <RecipesWithVideos />
+      <EditorsPick />
       <ChelifyFooter />
     </>
   )
