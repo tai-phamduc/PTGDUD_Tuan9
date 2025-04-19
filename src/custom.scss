@@ -1,0 +1,6 @@
+// Override default variables before the import
+$primary: #ff5733; // Custom primary color
+
+// Import Bootstrap and its default variables
+@import '/node_modules/bootstrap/scss/bootstrap.scss';
+
